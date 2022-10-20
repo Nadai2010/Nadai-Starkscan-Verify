@@ -28,7 +28,7 @@
   <img width="360" src="https://raw.githubusercontent.com/starkscan/starkscan-verifier/main/docs/demo.gif" alt="demo" />
 </p>
 
-# Nadai Cairo os deja la repo de Starkscan Oficial
+# Nadai Cairo Traduce la repo de Starkscan Oficial
 
 Una gran herramienta y muy rápida de usar para verificar contratos.
 
